@@ -13,3 +13,5 @@ This repository tries to contribute in defining some robust, general principles 
 This approach also helps understanding the great scope and the deep implications that our posture towards this issue may have in the general development of the sciences, technologies and societies.
 
 This is a work in progress.
+
+Donate: paypal.me/scibridge
