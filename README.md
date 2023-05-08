@@ -14,4 +14,4 @@ This approach also helps understanding the great scope and the deep implications
 
 This is a work in progress.
 
-Donate: paypal.me/scibridge
+Donate: paypal.me/agentc2
